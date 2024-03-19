@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Email Configuration</title>
+</head>
+<body>
+<h1>Email Configuration</h1>
+<form action="#" th:action="@{/config}" th:object="${config}" method="post">
+    <p>Language:
+        <select th:field="*{language}">
+            <option value="en">English</option>
+            <option value="vi">Vietnamese</option>
+            <option value="ja">Japanese</option>
+            <option value="zh">Chinese</option>
+        </select>
+    </p>
+    <p>Page Size:
+        <select th:field="*{pageSize}">
+            <option value="5">5</option>
+            <option value="10">10</option>
+            <option value="15">15</option>
+            <option value="25">25</option>
+            <option value="50">50</option>
+            <option value="100">100</option>
+        </select>
+    </p>
+    <p>Spam Filter:
+        <input type="checkbox" th:field="*{spamFilter}" />
+    </p>
+    <p>Signature:</p>
+    <textarea rows="4" cols="50" th:field="*{signature}"></textarea>
+    <button type="submit">Save</button>
+</form>
+<h2>Current Configuration</h2>
+<p>Language: <span th:text="${config.language}"></span></p>
+<p>Page Size: <span th:text="${config.pageSize}"></span></p>
+<p>Spam Filter: <span th:text="${config.spamFilter} ? 'Enabled' : 'Disabled'"></span></p>
+<p>Signature: <span th:text="${config.signature}"></span></p>
+</body>
+</html>
+
+

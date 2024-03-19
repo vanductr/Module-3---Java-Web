@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ca3d1e2-c12a-4380-9075-962f0d194459" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../SS_05/Thuc Hanh/Thuc hanh Tong hop 1/QuanLySinhVien/src/QuanLySinhVien.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_05/Thuc Hanh/Thuc hanh Tong hop 1/QuanLySinhVien/src/TruyVan.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_07/Thuc Hanh Tren Lop/Thuc hanh 1/QuanLyThuVien/src/main/java/rikkei/academy/QuanLyThuVien.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_10/Thuc Hanh/ Thuc hanh 4/convert money/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_10/Thuc Hanh/ Thuc hanh 4/convert money/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_10/Thuc Hanh/ Thuc hanh 4/convert money/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_10/Thuc Hanh/ Thuc hanh 4/convert money/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_10/Thuc Hanh/Thuc hanh 5/dictionary/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_10/Thuc Hanh/Thuc hanh 5/dictionary/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_10/Thuc Hanh/Thuc hanh 5/dictionary/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_10/Thuc Hanh/Thuc hanh 5/dictionary/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_11/Bai Tap/Bai tap 1/Display customer list/src/main/java/rikkei/academy/database/DBUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_11/Bai Tap/Bai tap 1/Display customer list/src/main/java/rikkei/academy/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_11/Bai Tap/Bai tap 1/Display customer list/src/main/webapp/WEB-INF/jsps/jstl_example.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_11/Bai Tap/Bai tap 2/Calculator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_11/Bai Tap/Bai tap 2/Calculator/src/main/java/rikkei/academy/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_11/Bai Tap/Bai tap 2/Calculator/src/main/webapp/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_11/Bai Tap/Bai tap 2/Calculator/src/main/webapp/result.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_11/Thuc Hanh/Thuc hanh 1/currency-converter-jsp/src/main/webapp/converter.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_11/Thuc Hanh/Thuc hanh 2/simple-dictionary-jsp/src/main/webapp/dictionary.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_11/Thuc Hanh/Thuc hanh 3/Fake Database/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_11/Thuc Hanh/Thuc hanh 3/Fake Database/src/main/java/rikkei/academy/database/DBUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_11/Thuc Hanh/Thuc hanh 3/Fake Database/src/main/java/rikkei/academy/model/Dept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_11/Thuc Hanh/Thuc hanh 3/Fake Database/src/main/java/rikkei/academy/model/Emp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_11/Thuc Hanh/Thuc hanh 3/Fake Database/src/main/webapp/WEB-INF/jsps/jstl_example.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_11/Thuc Hanh/Thuc hanh 4/Fake Database/src/main/java/rikkei/academy/JstlCoreTags.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_11/Thuc Hanh/Thuc hanh 4/Fake Database/src/main/webapp/WEB-INF/jsps/jstl_core_tags.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_12/Bai Tap/Bai Tap 1/Product Management/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_12/Bai Tap/Bai Tap 1/Product Management/src/main/java/rikkei/academy/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_12/Bai Tap/Bai Tap 1/Product Management/src/main/java/rikkei/academy/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_12/Bai Tap/Bai Tap 1/Product Management/src/main/java/rikkei/academy/service/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_12/Bai Tap/Bai Tap 1/Product Management/src/main/webapp/WEB-INF/product/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_12/Bai Tap/Bai Tap 1/Product Management/src/main/webapp/WEB-INF/product/delete.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_12/Bai Tap/Bai Tap 1/Product Management/src/main/webapp/WEB-INF/product/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_12/Bai Tap/Bai Tap 1/Product Management/src/main/webapp/WEB-INF/product/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_12/Bai Tap/Bai Tap 1/Product Management/src/main/webapp/WEB-INF/product/view.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_12/Thuc Hanh/Thuc hanh 1/Customer Manage/src/main/java/rikkei/academy/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_12/Thuc Hanh/Thuc hanh 1/Customer Manage/src/main/java/rikkei/academy/service/CustomerServiceIMPL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_12/Thuc Hanh/Thuc hanh 1/Customer Manage/src/main/java/rikkei/academy/service/ICustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_12/Thuc Hanh/Thuc hanh 1/Customer Manage/src/main/webapp/WEB-INF/customer/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_12/Thuc Hanh/Thuc hanh 1/Customer Manage/src/main/webapp/WEB-INF/customer/delete.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_12/Thuc Hanh/Thuc hanh 1/Customer Manage/src/main/webapp/WEB-INF/customer/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_12/Thuc Hanh/Thuc hanh 1/Customer Manage/src/main/webapp/WEB-INF/customer/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_12/Thuc Hanh/Thuc hanh 1/Customer Manage/src/main/webapp/WEB-INF/customer/view.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_13/Bai Tap/Bai tap 1/user-manager-plus/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_13/Bai Tap/Bai tap 1/user-manager-plus/src/main/java/rikkei/academy/controller/UserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_13/Bai Tap/Bai tap 1/user-manager-plus/src/main/java/rikkei/academy/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_13/Bai Tap/Bai tap 1/user-manager-plus/src/main/java/rikkei/academy/service/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_13/Bai Tap/Bai tap 1/user-manager-plus/src/main/java/rikkei/academy/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_13/Bai Tap/Bai tap 1/user-manager-plus/src/main/webapp/user/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_13/Bai Tap/Bai tap 1/user-manager-plus/src/main/webapp/user/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_13/Bai Tap/Bai tap 1/user-manager-plus/src/main/webapp/user/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_13/Thuc Hanh/Thuc hanh 1/user-manager2/src/main/java/rikkei/academy/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_13/Thuc Hanh/Thuc hanh 1/user-manager2/src/main/java/rikkei/academy/service/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_13/Thuc Hanh/Thuc hanh 1/user-manager2/src/main/java/rikkei/academy/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_13/Thuc Hanh/Thuc hanh 1/user-manager2/src/main/webapp/user/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_13/Thuc Hanh/Thuc hanh 1/user-manager2/src/main/webapp/user/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_13/Thuc Hanh/Thuc hanh 1/user-manager2/src/main/webapp/user/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Bai Tap/Bai tap 1/user-manager-procedure-plus/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Bai Tap/Bai tap 1/user-manager-procedure-plus/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Bai Tap/Bai tap 1/user-manager-procedure-plus/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Bai Tap/Bai tap 1/user-manager-procedure-plus/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Bai Tap/Bai tap 2/user-manager-procedure-plus2/src/main/java/rikkei/academy/controller/UserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Bai Tap/Bai tap 2/user-manager-procedure-plus2/src/main/java/rikkei/academy/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Bai Tap/Bai tap 2/user-manager-procedure-plus2/src/main/java/rikkei/academy/service/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Bai Tap/Bai tap 2/user-manager-procedure-plus2/src/main/java/rikkei/academy/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Bai Tap/Bai tap 2/user-manager-procedure-plus2/src/main/webapp/user/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Bai Tap/Bai tap 2/user-manager-procedure-plus2/src/main/webapp/user/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Bai Tap/Bai tap 2/user-manager-procedure-plus2/src/main/webapp/user/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 1/user-manager-procedure/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 1/user-manager-procedure/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 1/user-manager-procedure/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 1/user-manager-procedure/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 1/user-manager-procedure/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 1/user-manager-procedure/src/main/java/rikkei/academy/controller/UserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 1/user-manager-procedure/src/main/java/rikkei/academy/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 1/user-manager-procedure/src/main/java/rikkei/academy/service/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 1/user-manager-procedure/src/main/java/rikkei/academy/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 1/user-manager-procedure/src/main/webapp/user/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 1/user-manager-procedure/src/main/webapp/user/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 1/user-manager-procedure/src/main/webapp/user/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 2/academy/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 2/academy/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 2/academy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 2/academy/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 2/academy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 2/academy/src/main/java/rikkei/academy/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 2/academy/src/main/java/rikkei/academy/service/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 2/academy/src/main/java/rikkei/academy/service/UserServiceIMPL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 2/academy/src/main/webapp/user/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 3/SQLNoTransaction/src/main/java/rikkei/academy/controller/UserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 3/SQLNoTransaction/src/main/java/rikkei/academy/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 3/SQLNoTransaction/src/main/java/rikkei/academy/service/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 3/SQLNoTransaction/src/main/java/rikkei/academy/service/UserServiceIMPL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 3/SQLNoTransaction/src/main/webapp/user/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 3/SQLNoUseTransaction/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 3/SQLNoUseTransaction/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 3/SQLNoUseTransaction/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 3/SQLNoUseTransaction/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 3/SQLNoUseTransaction/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 3/SQLNoUseTransaction/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 3/SQLNoUseTransaction/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 3/SQLNoUseTransaction/src/main/java/rikkei/academy/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 3/SQLNoUseTransaction/src/main/java/rikkei/academy/service/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 3/SQLNoUseTransaction/src/main/java/rikkei/academy/service/UserServiceIMPL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 3/SQLNoUseTransaction/src/main/webapp/user/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 4/SQLUseTransaction/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 4/SQLUseTransaction/src/main/java/rikkei/academy/controller/UserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 4/SQLUseTransaction/src/main/java/rikkei/academy/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 4/SQLUseTransaction/src/main/java/rikkei/academy/service/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 4/SQLUseTransaction/src/main/java/rikkei/academy/service/UserServiceIMPL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_14/Thuc Hanh/Thuc hanh 4/SQLUseTransaction/src/main/webapp/user/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_15/Thuc Hanh/Thuc hanh 1/Dong Goi Thu Vien Java/src/rikkei/academy/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_17/Bai Tap/Bai tap 1/CurrencyConversion/src/main/java/rikkei/academy/controller/CurrencyConversionServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_17/Bai Tap/Bai tap 1/CurrencyConversion/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_17/Bai Tap/Bai tap 1/CurrencyConversion/src/main/webapp/WEB-INF/views/result.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_17/Bai Tap/Bai tap 1/CurrencyConversion/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_17/Bai Tap/Bai tap 1/CurrencyConversion/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_17/Bai Tap/Bai tap 2/SimpleDictionary/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_17/Bai Tap/Bai tap 2/SimpleDictionary/src/main/java/rikkei/academy/controller/DictionaryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_17/Bai Tap/Bai tap 2/SimpleDictionary/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_17/Bai Tap/Bai tap 2/SimpleDictionary/src/main/webapp/WEB-INF/views/dictionary.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_17/Bai Tap/Bai tap 2/SimpleDictionary/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_17/Bai Tap/Bai tap 2/SimpleDictionary/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_17/Thuc Hanh/Thuc hanh 1/springmvc2/src/main/java/rikkei/academy/controller/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_17/Thuc Hanh/Thuc hanh 1/springmvc2/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_17/Thuc Hanh/Thuc hanh 1/springmvc2/src/main/webapp/WEB-INF/views/hello.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_17/Thuc Hanh/Thuc hanh 1/springmvc2/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SS_17/Thuc Hanh/Thuc hanh 1/springmvc2/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai Tap/Bai tap 1/HienThiGiaViVoiSandwich/src/main/java/rikkei/academy/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai Tap/Bai tap 1/HienThiGiaViVoiSandwich/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai Tap/Bai tap 1/HienThiGiaViVoiSandwich/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai Tap/Bai tap 1/HienThiGiaViVoiSandwich/src/main/webapp/WEB-INF/views/toppings.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai Tap/Bai tap 1/HienThiGiaViVoiSandwich/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai Tap/Bai tap 2/Caculator/src/main/java/rikkei/academy/controller/CalculatorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai Tap/Bai tap 2/Caculator/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai Tap/Bai tap 2/Caculator/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai Tap/Bai tap 2/Caculator/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Thuc hanh 1/validate-email/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Thuc hanh 1/validate-email/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Thuc hanh 1/validate-email/src/main/java/rikkei/academy/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Thuc hanh 1/validate-email/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Thuc hanh 1/validate-email/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Thuc hanh 1/validate-email/src/main/webapp/WEB-INF/views/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Thuc hanh 1/validate-email/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Thuc hanh 2/validate-email-gradle/src/main/java/rikkei/academy/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Thuc hanh 2/validate-email-gradle/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Thuc hanh 2/validate-email-gradle/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Thuc hanh 2/validate-email-gradle/src/main/webapp/WEB-INF/views/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Thuc hanh 2/validate-email-gradle/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Thuc hanh 3/time-of-city/src/main/java/rikkei/academy/controller/TimeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Thuc hanh 3/time-of-city/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Thuc hanh 3/time-of-city/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Thuc hanh 3/time-of-city/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Thuc hanh 4/Time_Of_City_Maven/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Thuc hanh 4/Time_Of_City_Maven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Thuc hanh 4/Time_Of_City_Maven/src/main/java/rikkei/academy/controller/TimeOfCityController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Thuc hanh 4/Time_Of_City_Maven/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Thuc hanh 4/Time_Of_City_Maven/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Thuc hanh 4/Time_Of_City_Maven/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rikkei/academy/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rikkei/academy/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rikkei/academy/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rikkei/academy/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rikkei/academy/service/IStudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rikkei/academy/service/StudentServiceIMPL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/students/info.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/students/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator/src/main/java/rikkei/academy/HelloApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator/src/main/java/rikkei/academy/HelloResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator/src/main/resources/META-INF/beans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator2/.gradle/8.2/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator2/.gradle/8.2/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator2/.gradle/8.2/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator2/.gradle/8.2/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator2/.gradle/8.2/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator2/.gradle/8.2/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator2/.gradle/8.2/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator2/.gradle/8.2/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator2/.gradle/8.2/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator2/.gradle/8.2/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator2/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator2/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator2/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator2/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator2/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator2/build 2.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator2/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator2/build/classes/java/main/rikkei/academy/CalculateDiscount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator2/build/libs/academy-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator2/build/tmp/compileJava/compileTransaction/stash-dir/HelloServlet.class.uniqueId0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator2/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator2/build/tmp/war/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator2/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator2/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator2/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator2/gradlew 2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator2/gradlew 2.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator2/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator2/settings 2.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator2/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator2/src/main/java/rikkei/academy/CalculateDiscount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator2/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator2/src/main/webapp/index 2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Bai Tap/thư mục không có tiêu đề/DiscountCalculator2/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SS_10/Thuc Hanh/Thuc hanh 5/dictionary/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SS_10/Thuc Hanh/Thuc hanh 5/dictionary/src/main/webapp/index.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2dm1Pwu6ojTgFJSBkMyBOHPcfNx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build QuanLySinhVien.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Tomcat Server.Tomcat 9.0.68.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.68" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.68" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : rikkei.academy : QuanLySinhVien-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="73f3e43f-680d-4736-8c73-14a5fa06a859" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56244" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : rikkei.academy : QuanLySinhVien-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-f644763e9732-1a501b52" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ca3d1e2-c12a-4380-9075-962f0d194459" name="Changes" comment="" />
+      <created>1710598420717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710598420717</updated>
+      <workItem from="1710598421840" duration="3408000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

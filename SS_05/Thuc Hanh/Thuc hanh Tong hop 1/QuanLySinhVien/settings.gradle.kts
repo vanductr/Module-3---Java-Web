@@ -1,0 +1,2 @@
+rootProject.name = "QuanLySinhVien.sql"
+

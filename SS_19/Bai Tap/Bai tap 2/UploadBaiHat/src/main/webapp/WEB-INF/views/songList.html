@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Song List</title>
+</head>
+<body>
+<h1>Song List</h1>
+<table border="1">
+    <thead>
+    <tr>
+        <th>ID</th>
+        <th>Title</th>
+        <th>Artist</th>
+        <th>Genre</th>
+        <th>File Path</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr th:each="song : ${songs}">
+        <td th:text="${song.id}"></td>
+        <td th:text="${song.title}"></td>
+        <td th:text="${song.artist}"></td>
+        <td th:text="${song.genre}"></td>
+        <td th:text="${song.filePath}"></td>
+    </tr>
+    </tbody>
+</table>
+<p><a th:href="@{/upload}">Upload a new song</a></p>
+</body>
+</html>
